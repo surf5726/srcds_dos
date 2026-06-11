@@ -1,0 +1,1 @@
+Only applicable to Windows SRCDS servers with TCP game ports enabled. Use this program at your own risk.
